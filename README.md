@@ -1,6 +1,6 @@
 # SDM274_AI_and_Machine_Learning
 
-![Static Badge](https://img.shields.io/badge/SDM-274-blue)
+![Static Badge](https://img.shields.io/badge/2024-Autumn-red)
 
 ---
 
